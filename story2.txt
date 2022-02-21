@@ -1,1 +1,1 @@
-this is spoiled version of story 2
+This is the first commit of story2
